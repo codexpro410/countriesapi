@@ -547,91 +547,135 @@
   "arab_countries": [
     {
       "name": "Algeria",
-      "capital": "Algiers"
+      "capital": "Algiers",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717936547/View-city-Algiers-Algeria_hhbcor.jpg",
+      "description": "Algeria is known for its rich history, vibrant culture, and diverse landscapes. From the ancient Roman ruins of Timgad to the bustling streets of Algiers, there is much to explore in this North African country."
     },
     {
       "name": "Bahrain",
-      "capital": "Manama"
+      "capital": "Manama",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717936758/EDSA-Projects-Four-Seasons-Bahrain-495x325-1_rgxfxq.jpg",
+      "description": "Bahrain, the island nation in the Arabian Gulf, is famous for its thriving economy, modern architecture, and rich cultural heritage. With its warm hospitality and stunning waterfront views, Bahrain offers a unique blend of tradition and modernity."
     },
     {
       "name": "Comoros",
-      "capital": "Moroni"
+      "capital": "Moroni",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717936791/shutterstock_1192227295v2-2024x1406_ylhszw.jpg",
+      "description": "Comoros, a volcanic archipelago off the coast of East Africa, is known for its pristine beaches, lush rainforests, and vibrant coral reefs. With its warm tropical climate and laid-back atmosphere, Comoros is a paradise for nature lovers and adventure seekers."
     },
     {
       "name": "Djibouti",
-      "capital": "Djibouti"
+      "capital": "Djibouti",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717936859/country-banner-djibouti-v3_l4cgqo.jpg",
+      "description": "Djibouti, located in the Horn of Africa, is known for its strategic location, diverse culture, and stunning natural landscapes. From the salt lakes of Lac Assal to the vibrant markets of Djibouti City, there is much to discover in this small but dynamic country."
     },
     {
       "name": "Egypt",
-      "capital": "Cairo"
+      "capital": "Cairo",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937025/Giza_Egypt_KIDS_0123_square_czhpu1.jpg",
+      "description": "Egypt, the land of pharaohs and pyramids, is famous for its ancient civilization, iconic landmarks, and rich cultural heritage. With its millennia-old temples, bustling bazaars, and golden deserts, Egypt is a mesmerizing destination that captivates travelers from around the world."
     },
     {
       "name": "Iraq",
-      "capital": "Baghdad"
+      "capital": "Baghdad",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937108/shutterstock_1487993213v2-2109x1406_gmrebg.jpg",
+      "description": "Iraq, the cradle of civilization, is known for its rich history, diverse culture, and breathtaking landscapes. From the ancient ruins of Babylon to the vibrant markets of Baghdad, Iraq offers a unique blend of tradition and modernity that fascinates visitors from all walks of life."
     },
     {
       "name": "Jordan",
-      "capital": "Amman"
+      "capital": "Amman",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937167/Al-Dayr-Petra-Jordan_dlmnrx.jpg",
+      "description": "Jordan, a land of ancient wonders and natural beauty, is known for its stunning desert landscapes, ancient ruins, and warm hospitality. From the rose-red city of Petra to the vast deserts of Wadi Rum, Jordan offers a wealth of experiences for travelers seeking adventure and discovery."
     },
     {
       "name": "Kuwait",
-      "capital": "Kuwait City"
+      "capital": "Kuwait City",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937209/Kuwait-city_rxuxnj.jpg",
+      "description": "Kuwait, a small but prosperous Gulf nation, is known for its modern skyline, rich history, and vibrant cultural scene. With its luxurious shopping malls, pristine beaches, and world-class dining options, Kuwait offers a unique blend of tradition and modernity that appeals to visitors from around the world."
     },
     {
       "name": "Lebanon",
-      "capital": "Beirut"
+      "capital": "Beirut",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937243/56691db9f3f4d010ae75255f67af8dd10b7598b1_qfhmtb.jpg",
+      "description": "Lebanon, the pearl of the Mediterranean, is known for its stunning coastline, ancient ruins, and vibrant cultural scene. From the bustling streets of Beirut to the ancient temples of Baalbek, Lebanon offers a wealth of experiences for travelers seeking history, culture, and adventure."
     },
     {
       "name": "Libya",
-      "capital": "Tripoli"
+      "capital": "Tripoli",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937276/shutterstock_1884866605v2_lc1mcs.jpg",
+      "description": "Libya, the land of ancient civilizations, is known for its rich history, diverse landscapes, and warm hospitality. From the Roman ruins of Leptis Magna to the stunning beaches of the Mediterranean coast, Libya offers a wealth of experiences for travelers seeking adventure and discovery."
     },
     {
       "name": "Mauritania",
-      "capital": "Nouakchott"
+      "capital": "Nouakchott",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937329/Photo-littoral-_EnHaut_pvstad.jpg",
+      "description": "Mauritania, a land of vast deserts and rich cultural heritage, is known for its stunning landscapes, ancient ruins, and traditional nomadic way of life. From the ancient cities of Chinguetti and Ouadane to the scenic beaches of Nouakchott, Mauritania offers a unique blend of history, culture, and natural beauty."
     },
     {
       "name": "Morocco",
-      "capital": "Rabat"
+      "capital": "Rabat",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937360/shutterstock_1116613160v2_y8rqhd.jpg",
+      "description": "Morocco, a land of vibrant colors and rich cultural heritage, is known for its bustling souks, ancient medinas, and stunning landscapes. From the bustling streets of Marrakech to the majestic Atlas Mountains, Morocco offers a wealth of experiences for travelers seeking adventure and discovery."
     },
     {
       "name": "Oman",
-      "capital": "Muscat"
+      "capital": "Muscat",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937387/Muscat-Oman_opdwpz.jpg",
+      "description": "Oman, the land of ancient forts and stunning landscapes, is known for its rich history, vibrant culture, and warm hospitality. From the majestic mountains of Jebel Akhdar to the pristine beaches of Musandam, Oman offers a wealth of experiences for travelers seeking adventure and relaxation."
     },
     {
       "name": "Palestine",
-      "capital": "East Jerusalem"
+      "capital": "East Jerusalem",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937442/site_1492_0004-750-750-20140923114655_do6lnq.jpg",
+      "description": "Palestine, the land of ancient civilizations and religious significance, is known for its rich history, diverse culture, and breathtaking landscapes. From the historic streets of Jerusalem to the serene shores of the Dead Sea, Palestine offers a wealth of experiences for travelers seeking history, culture, and spirituality."
     },
     {
       "name": "Qatar",
-      "capital": "Doha"
+      "capital": "Doha",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937553/DSC09822_gysvi4.jpg",
+      "description": "Qatar, the vibrant Gulf nation, is known for its modern skyline, luxurious shopping malls, and world-class cultural attractions. From the futuristic architecture of Doha to the serene beaches of the Corniche, Qatar offers a unique blend of tradition and modernity that captivates visitors from around the world."
     },
     {
       "name": "Saudi Arabia",
-      "capital": "Riyadh"
+      "capital": "Riyadh",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937627/smith-diwan_religion_z0kzrr.jpg",
+      "description": "Saudi Arabia, the birthplace of Islam, is known for its rich history, vibrant culture, and stunning landscapes. From the ancient ruins of Mada'in Saleh to the bustling streets of Riyadh, Saudi Arabia offers a unique blend of tradition and modernity that fascinates travelers from around the world."
     },
     {
       "name": "Somalia",
-      "capital": "Mogadishu"
+      "capital": "Mogadishu",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937647/Fishermen-port-Mogadishu-Somalia_rfplav.jpg",
+      "description": "Somalia, the Horn of Africa, is known for its rich history, diverse culture, and stunning natural landscapes. From the bustling markets of Mogadishu to the pristine beaches of the Indian Ocean coast, Somalia offers a wealth of experiences for travelers seeking adventure and discovery."
     },
     {
       "name": "Sudan",
-      "capital": "Khartoum"
+      "capital": "Khartoum",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937681/Sudan-e1555938324206-2500x1406-1_rnzgaw.jpg",
+      "description": "Sudan, the largest country in Africa, is known for its rich history, diverse culture, and stunning landscapes. From the ancient pyramids of Meroe to the vibrant markets of Khartoum, Sudan offers a unique blend of tradition and modernity that fascinates travelers from around the world."
     },
     {
       "name": "Syria",
-      "capital": "Damascus"
+      "capital": "Damascus",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937696/Umayyad-Mosque-Damascus_qnudq6.jpg",
+      "description": "Syria, the cradle of civilization, is known for its rich history, diverse culture, and stunning landscapes. From the ancient ruins of Palmyra to the bustling streets of Damascus, Syria offers a unique blend of tradition and modernity that captivates travelers from around the world."
     },
     {
       "name": "Tunisia",
-      "capital": "Tunis"
+      "capital": "Tunis",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937714/coast-Gulf-of-Tunis-Tunisia-Al-Marsa_r2avna.jpg",
+      "description": "Tunisia, the gateway to Africa, is known for its rich history, vibrant culture, and stunning landscapes. From the ancient ruins of Carthage to the sandy beaches of Hammamet, Tunisia offers a wealth of experiences for travelers seeking history, culture, and relaxation."
     },
     {
       "name": "United Arab Emirates",
-      "capital": "Abu Dhabi"
+      "capital": "Abu Dhabi",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937750/UAE-2109x1406_epn1wm.jpg",
+      "description": "The United Arab Emirates, a federation of seven emirates, is known for its modern cities, luxurious resorts, and stunning desert landscapes. From the iconic skyscrapers of Dubai to the pristine beaches of Abu Dhabi, the UAE offers a unique blend of tradition and modernity that captivates visitors from around the world."
     },
     {
       "name": "Yemen",
-      "capital": "Sana'a"
+      "capital": "Sana'a",
+      "image": "https://res.cloudinary.com/dk2b8trpd/image/upload/v1717937795/yemen-old-sanaa_owckkw.jpg",
+      "description": "Yemen, the land of ancient civilizations and natural beauty, is known for its rich history, diverse culture, and stunning landscapes. From the ancient mud-brick buildings of Sana'a to the towering cliffs of Socotra, Yemen offers a wealth of experiences for travelers seeking adventure and discovery."
     }
   ]
 }
